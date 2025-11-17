@@ -1,4 +1,4 @@
-# Peggy's Data Portfolio
+# Data Portfolio: Excel - SQL - PowerBI
 
 
 # Table of Content
