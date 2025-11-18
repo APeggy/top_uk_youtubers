@@ -277,8 +277,7 @@ HAVING
 
 # Visualization
 
-
-
+![Dashboard](assets/images)
 
 # DAX Measures
 1. Total Subscribers (Millions)
