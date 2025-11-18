@@ -277,7 +277,9 @@ HAVING
 
 # Visualization
 
-![Dashboard](assets/images)
+![Top UK YouTubers Dashboard](assets/images/Top_UK_YouTubers_Dashboard.png)
+
+This shows the top UK YouTubers so far
 
 # DAX Measures
 1. Total Subscribers (Millions)
