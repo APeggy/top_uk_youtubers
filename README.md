@@ -1,5 +1,5 @@
 # Data Portfolio: Excel - SQL - PowerBI
-
+![Excel - SQL - PowerBI](assets/images/kaggle_to_powerbi.gif)
 
 # Table of Content
 - [Objective](#objective)
